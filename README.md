@@ -30,6 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MONGODB" width="40px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLALCHEMY" width="57px" align="left"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" alt="Express.js" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FASTAPI" width="56px" align="left"/>
 <br clear="left">
 

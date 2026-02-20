@@ -17,9 +17,7 @@
   </tr>
 </table>
 
-### 📒 Em aprendizado...
-
-#### • ⚙️ Linguagens/ 🪪 Banco de Dados/ 🤖 Frameworks:
+### • Em aprendizado (⚙️ Linguagens/ 🪪 Banco de Dados/ 🤖 Frameworks):
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="35px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="35px" align="left"/>

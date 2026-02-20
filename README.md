@@ -1,13 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=25&fontAlignY=30&animation=fadeIn&section=header" width="100%">
 
-<div align="center">
+
   
 # 👾 Marcos Kalleby 👾
+
+<div align="center">
   
 **`Desenvolvedor Fullstack em formação`**
 
 </div>
 
+### ℹ️ Sobre mim
+
+Meu nome é Marcos Kalleby Rodrigues Nascimento, tenho 20 anos, moro em Fortaleza-CE e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na Estácio. Sou apaixonado pela área de tecnologia, por isso estou me desenvolvendo na parte de **desenvolvimento fullstack**, para me aprofundar na **programação** e crescer mais e mais a cada nova descoberta.
 
 ---
 

@@ -2,7 +2,7 @@
 
 
 <h1 style="margin: 0">👾 Marcos Kalleby 👾</h1>
-<h3>ℹ️ Sobre mim</h3>
+<h3 style="margin: 0">ℹ️ Sobre mim</h3>
 <table style="margin: 0">
   <tr>
     <td> 

@@ -29,3 +29,34 @@ Sou apaixonado pela área de tecnologia, por isso estou me desenvolvendo na part
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="PYTHON" width="46px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="NODEJS" width="55px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" alt="SQL" width="48px" align="left"/>
+
+<br><br>
+
+#### • 🪪 Banco de Dados:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="60px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="POSTGRESQL" width="48px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MONGODB" width="49px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLALCHEMY" width="74px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLITE" width="68px" align="left"/>
+
+<br><br><br>
+
+#### • 🤖 Frameworks:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FASTAPI" width="77px" align="left"/>
+
+<br clear="left">
+
+---
+
+### 📊 Estatísticas:
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalleby-dev12&theme=tokyonight" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalleby-dev12&theme=tokyonight" align="left"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=a77ef3&text=©%20Marcos%20Kalleby&fontColor=ffffff&fontAlign=50&fontSize=20&fontAlignY=73&animation=fadeIn&section=footer" width="100%">

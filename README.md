@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=20&fontAlignY=25&animation=fadeIn&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=22&fontAlignY=26&animation=fadeIn&section=header" width="100%">
   
 # 👾 Marcos Kalleby 👾
 
@@ -38,4 +38,4 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalleby-dev12&theme=tokyonight" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalleby-dev12&theme=tokyonight" align="left"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=a77ef3&text=©%20Marcos%20Kalleby&fontColor=ffffff&fontAlign=50&fontSize=20&fontAlignY=73&animation=fadeIn&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=©%20Marcos%20Kalleby&fontColor=ffffff&fontAlign=50&fontSize=20&fontAlignY=70&animation=fadeIn&section=footer" width="100%">

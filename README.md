@@ -30,7 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="POSTGRESQL" title="POSTGRESQL" width="39px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MONGODB" width="40px" title="MONGODB" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FASTAPI" width="56px" title="FASTAPI" align="left"/>
-<img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="EXPRESS.JS" title="EXPRESS.JS" width="40" height="40"/>
 <br clear="left">
 
 ### 📊 Estatísticas:

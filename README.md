@@ -8,7 +8,7 @@
   <tr>
     <td>
       <h3>ℹ️ Sobre mim</h3>
-      <p>Meu nome é Marcos Kalleby Rodrigues Nascimento, tenho 20 anos, moro em Fortaleza-CE e atualmente estou cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio.  
+      <p>Meu nome é Marcos Kalleby Rodrigues Nascimento, tenho 20 anos, moro em Fortaleza-CE,atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio.  
       Sou apaixonado pela área de tecnologia, por isso estou me desenvolvendo na parte de <b>desenvolvimento fullstack</b>, para me aprofundar na <b>programação</b> e crescer mais e mais a cada nova descoberta.</p>
     </td>
     <td>
@@ -35,11 +35,7 @@
 
 ### 📊 Estatísticas:
 
-<div align="center">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalleby-dev12&theme=tokyonight" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalleby-dev12&theme=tokyonight" align="left"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=a77ef3&text=©%20Marcos%20Kalleby&fontColor=ffffff&fontAlign=50&fontSize=20&fontAlignY=73&animation=fadeIn&section=footer" width="100%">

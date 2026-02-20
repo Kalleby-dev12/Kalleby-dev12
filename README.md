@@ -2,7 +2,7 @@
   
 <h1 align="center">👾 Marcos Kalleby 👾</h1>
   
-<h2 align="center">`Desenvolvedor Fullstack em formação`</h2>
+<h2 align="center">Desenvolvedor Fullstack em formação</h2>
 
 <table>
   <tr>

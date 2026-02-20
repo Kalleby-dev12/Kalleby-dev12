@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=22&fontAlignY=22&animation=fadeIn&section=header" width="100%" title="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=22&fontAlignY=24&animation=fadeIn&section=header" width="100%" title="Header">
 
 
 <h1 style="margin: 0">👾 Marcos Kalleby 👾</h1>

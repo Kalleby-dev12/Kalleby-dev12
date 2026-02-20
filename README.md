@@ -36,6 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLITE" width="68px" align="left"/>
 <br>
 <br>
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FASTAPI" width="77px" align="left"/>
 
 <br clear="left">

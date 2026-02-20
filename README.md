@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=22&fontAlignY=26&animation=fadeIn&section=header" width="100%" title="Header">
 
-<h1 style="margin: 0">👾 Marcos Kalleby 👾</h1>
+
 <code>Dev Fullstack em formação</code>
+
+<h1 style="margin: 0">👾 Marcos Kalleby 👾</h1>
+
 <table style="margin: 0">
   <tr>
     <td>

@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLALCHEMY" title="SQLALCHEMY" width="57px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FASTAPI" width="56px" title="FASTAPI" align="left"/>
 <br clear="left">
-<img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="EXPRESS.JS" title="EXPRESS.JS" width="40" height="40"/>
+<img src="[https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000](https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000)" alt="EXPRESS.JS" title="EXPRESS.JS" width="40" height="40"/>
 
 ### 📊 Estatísticas:
 

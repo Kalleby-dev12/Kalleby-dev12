@@ -10,11 +10,10 @@
 
 </div>
 
-### ℹ️ Sobre mim
-
 <table>
   <tr>
     <td>
+      ### ℹ️ Sobre mim
       Meu nome é Marcos Kalleby Rodrigues Nascimento, tenho 20 anos, moro em Fortaleza-CE e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na Estácio.  
       Sou apaixonado pela área de tecnologia, por isso estou me desenvolvendo na parte de **desenvolvimento fullstack**, para me aprofundar na **programação** e crescer mais e mais a cada nova descoberta.
     </td>

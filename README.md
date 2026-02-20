@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=22&fontAlignY=26&animation=fadeIn&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=Seja%20bem%20vindo(a)&fontColor=ffffff&fontAlign=50&fontSize=22&fontAlignY=26&animation=fadeIn&section=header" width="100%" title="Header">
   
 # 👾 Marcos Kalleby 👾
 
@@ -30,12 +30,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MONGODB" width="40px" title="MONGODB" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLALCHEMY" title="SQLALCHEMY" width="57px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FASTAPI" width="56px" title="FASTAPI" align="left"/>
-<br clear="left">
 <img src="https://img.icons8.com/?size=100&id=9Gfx4Dfxl0JK&format=png&color=000000" alt="EXPRESS.JS" title="EXPRESS.JS" width="40" height="40"/>
+<br clear="left">
 
 ### 📊 Estatísticas:
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalleby-dev12&theme=tokyonight" align="left"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalleby-dev12&theme=tokyonight" align="left"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=©%20Marcos%20Kalleby&fontColor=ffffff&fontAlign=50&fontSize=20&fontAlignY=75&animation=fadeIn&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&color=a77ef3&text=©%20Marcos%20Kalleby&fontColor=ffffff&fontAlign=50&fontSize=20&fontAlignY=75&animation=fadeIn&section=footer" width="100%" title="Footer">

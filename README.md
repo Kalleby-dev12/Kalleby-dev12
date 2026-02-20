@@ -29,7 +29,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" alt="POSTGRESQL" width="39px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="MONGODB" width="40px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLALCHEMY" width="57px" align="left"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" alt="EXPRESS" width="54px" align="left"/>
+<svg role="img" viewBox="0 0 24 24" width="40" height="40" xmlns="http://www.w3.org/2000/svg" align="left">
+  <title>Express.js</title>
+  <path fill="#FFFFFF" d="M9.6 12.7L6.2 17h-.7l-3.4-4.3L0 17h-.7l4.1-5.2L0 6.8h.7l3.4 4.3L7.5 6.8h.7l-4.1 5.2 4.5 5.7zM14.3 17h-.7l-2.9-4.1-2.9 4.1h-.7l3.2-4.5-3.2-4.5h.7l2.9 4.1 2.9-4.1h.7l-3.2 4.5 3.2 4.5z"/>
+</svg>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" alt="FASTAPI" width="56px" align="left"/>
 <br clear="left">
 

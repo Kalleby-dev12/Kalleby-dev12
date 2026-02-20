@@ -6,7 +6,6 @@
 <table style="margin: 0">
   <tr>
     <td> 
-      <code>Dev Fullstack em formação</code> <code>Em busca de novas experiências</code>
       <br>
       <br>
       <p>Meu nome é Marcos Kalleby Rodrigues Nascimento, tenho 20 anos, moro em Fortaleza-CE, atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio.  

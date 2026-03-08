@@ -3,20 +3,12 @@
 
 <h1 style="margin: 0">👾 Marcos Kalleby 👾</h1>
 <h3>ℹ️ Sobre mim</h3>
-<table style="margin: 0">
-  <tr>
-    <td>
-      <code>Dev Fullstack em formação</code> <code>Em busca de novas experiências</code>
-      <br>
-      <br>
-      <p>Meu nome é <b>Marcos Kalleby Rodrigues Nascimento</b>, tenho 20 anos, moro em Fortaleza-CE, atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio.  
-      Sou apaixonado pela área de tecnologia, por isso estou me desenvolvendo em <b>fullstack</b>, para me aprofundar na <b>programação</b> e crescer mais e mais a cada nova descoberta.</p>
-    </td>
-    <td>
-      <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3yEGMxxZrZ85d175HQnAxUyXsVi8Rl3gZ3nFe6RMsng" width="300" title="Personagem programando">
-    </td>
-  </tr>
-</table>
+
+<code>Dev Fullstack em formação</code> <code>Em busca de novas experiências</code>
+<br>
+<p>Meu nome é <b>Marcos Kalleby Rodrigues Nascimento</b>, tenho 20 anos, moro em Fortaleza-CE, atualmente cursando <b>Análise e Desenvolvimento de Sistemas</b> na Estácio. Sou apaixonado pela área de tecnologia, por isso estou me desenvolvendo em <b>fullstack</b>, para me aprofundar na <b>programação</b> e crescer mais e mais a cada nova descoberta.</p>
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jODNjMDA0ZS0xMzcwLTQ3NTYtODhlNS00MDcxZGU3OTcwODgvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3yEGMxxZrZ85d175HQnAxUyXsVi8Rl3gZ3nFe6RMsng" width="300" title="Personagem programando">
 
 #### • Em aprendizado (⚙️ Linguagens/ 🪪 Banco de Dados/ 🤖 Frameworks):
 
